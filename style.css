@@ -1,0 +1,12 @@
+:root{
+	--main-bg-color: blue;
+}
+
+body{
+}
+header{
+	background-color: var(--main-bg-color);
+}
+.ex{
+	background-color: var(--main-bg-color);
+}
